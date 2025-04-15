@@ -1,0 +1,37 @@
+[
+    {
+      "file": "questions/networking/vpc-peering.png",
+      "title": "VPC Peering Design",
+      "tags": ["networking", "vpc", "peering", "routing"],
+      "difficulty": "medium",
+      "description": "Diagram explaining how VPC peering works across regions and accounts."
+    },
+    {
+      "file": "questions/security/iam-policies.png",
+      "title": "IAM Policies Deep Dive",
+      "tags": ["security", "iam", "permissions", "json"],
+      "difficulty": "easy",
+      "description": "Comparison of identity-based vs resource-based policies with examples."
+    },
+    {
+      "file": "questions/compute/lambda-design.png",
+      "title": "Serverless Lambda Design Pattern",
+      "tags": ["compute", "lambda", "serverless", "event-driven"],
+      "difficulty": "medium",
+      "description": "Common event-driven serverless architecture using AWS Lambda."
+    },
+    {
+      "file": "questions/storage/s3-lifecycle.png",
+      "title": "S3 Lifecycle Management",
+      "tags": ["storage", "s3", "cost-optimization", "data-management"],
+      "difficulty": "easy",
+      "description": "How to configure S3 lifecycle policies to move data to cheaper tiers."
+    },
+    {
+      "file": "questions/architecture/high-availability.png",
+      "title": "High Availability Architecture",
+      "tags": ["architecture", "high-availability", "multi-az", "redundancy"],
+      "difficulty": "hard",
+      "description": "Design pattern to ensure high availability across Availability Zones."
+    }
+  ]
