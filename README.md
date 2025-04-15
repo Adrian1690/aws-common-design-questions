@@ -11,6 +11,10 @@ Each image represents a visual answer to a specific design question.
 ![Question 1](questions/question1.png)
 *Tags: `vpc`, `route53`, `Global Accelerator`, `Cloudfront`, `S3`, `RDS`, `DynamoDB`,`Redis`, `Shield`, `WAF` `X-Ray`, `Config`, `Cloudtrail`, `Cloudwatch`*
 
+### Question 2
+![Question 2](questions/question2.png)
+*Tags: `route53`, `API Gateway`, `Cloudfront`, `Lambda`, `IAM Roles`, `S3`, `RDS`, `DynamoDB`,`DAX`, `Shield`, `WAF` `X-Ray`, `Config`, `Cloudtrail`, `Cloudwatch`*
+
 ## 🚀 Contribution (optional)
 
 Want to contribute or suggest a new visual question?
